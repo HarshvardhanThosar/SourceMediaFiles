@@ -37,7 +37,7 @@
             <mxPoint x="1110" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NkxEhW_Q4axgy1spBbfG-20" value="&lt;p style=&quot;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 40px; color: light-dark(rgb(255, 98, 81), rgb(237, 237, 237));&quot;&gt;SDG List&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NkxEhW_Q4axgy1spBbfG-20" value="&lt;p style=&quot;&quot; class=&quot;p1&quot;&gt;&lt;font style=&quot;font-size: 40px; color: light-dark(rgb(255, 98, 81), rgb(237, 237, 237));&quot;&gt;SDGs List&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1960" y="650" width="420" height="95" as="geometry" />
         </mxCell>
         <mxCell id="NkxEhW_Q4axgy1spBbfG-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.918;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;strokeColor=light-dark(#ff6251, #ededed);" edge="1" parent="1" source="NkxEhW_Q4axgy1spBbfG-20" target="NkxEhW_Q4axgy1spBbfG-1">
