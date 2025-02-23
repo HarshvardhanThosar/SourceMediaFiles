@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.0.16">
   <diagram name="Page-1" id="z_0L8ieNw4KZXJvWmH0e">
-    <mxGraphModel dx="2565" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
             <mxPoint x="893" y="528" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NkxEhW_Q4axgy1spBbfG-12" value="&lt;font color=&quot;#ff4013&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Using both English and Irish&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff4013&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;to reach a broader audience&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NkxEhW_Q4axgy1spBbfG-12" value="&lt;font color=&quot;#ff4013&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;Using both English &amp;amp; Irish&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff4013&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;to reach a broader audience&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1940" y="290" width="480" height="100" as="geometry" />
         </mxCell>
       </root>
